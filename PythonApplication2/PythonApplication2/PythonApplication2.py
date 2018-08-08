@@ -1,4 +1,4 @@
-
+import datamining_algorithms
 #Finds longest common subsequence - Assumes always str1 is bigger than str2
 #Write a helper function to swap str1 and str2 arguments to account for other way.
 
@@ -430,7 +430,7 @@ def findlongesuenceinarray(a):
 
 r_st,r_end,r_diff = findlongesuenceinarray(a)
 
-print r_st,r_end,r_diff
+#print r_st,r_end,r_diff
 
 #Bubble sort
 
