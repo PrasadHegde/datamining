@@ -1,0 +1,6 @@
+D:\personalcode\datamining\dataminingin.net\dataminingin.net\bin\Debug\dataminingin.net.exe.config
+D:\personalcode\datamining\dataminingin.net\dataminingin.net\bin\Debug\dataminingin.net.exe
+D:\personalcode\datamining\dataminingin.net\dataminingin.net\bin\Debug\dataminingin.net.pdb
+D:\personalcode\datamining\dataminingin.net\dataminingin.net\obj\Debug\dataminingin.net.csprojResolveAssemblyReference.cache
+D:\personalcode\datamining\dataminingin.net\dataminingin.net\obj\Debug\dataminingin.net.exe
+D:\personalcode\datamining\dataminingin.net\dataminingin.net\obj\Debug\dataminingin.net.pdb
